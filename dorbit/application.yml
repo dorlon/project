@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      url: mongodb+srv://atera-interview:RTthTqc7I4eSUOv8@automationinterview.ffysd0u.mongodb.net/sample_restaurants
+
